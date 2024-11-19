@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: post
 title: "Real Madrid"
-categories: Real Madrid
+date: "2024-11-19"
+categories: jekyll update
+image: real-madrid.jpg
 ---
 # Real Madrid Club de Fútbol
 
